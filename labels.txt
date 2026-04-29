@@ -1,8 +1,13 @@
 0 OZOD
 1 Telefon
-2 Qaychi
-3 Daftar
-4 ruchka
-5 mishka
-6 ko'zoynak
-7 zaryadchik
+2 Daftar
+3 ruchka
+4 mishka
+5 ko'zoynak
+6 zaryadchik
+7 qizil rangi
+8 sariq rangi
+9 qora rangi
+10 oq rangi
+11 uzb bayrog'i
+12 amerika bayrog'i
